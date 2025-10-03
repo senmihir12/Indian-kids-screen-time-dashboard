@@ -61,5 +61,4 @@ Proficiency in Power BI dashboard design and interactivity.
 Strength in storytelling with data to highlight meaningful insights.
 A recruiter-facing portfolio project showcasing business intelligence and visualization expertise.
 Strength in storytelling with data to highlight meaningful insights.
-
 A recruiter-facing portfolio project showcasing business intelligence and visualization expertise.
